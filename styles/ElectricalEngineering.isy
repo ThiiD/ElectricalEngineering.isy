@@ -236,34 +236,60 @@
 
 <!-- Eletronica de Potencia -->
 <symbol name='Eletrônica de Potência/SCR'snap="-16 0 16 0 0 0">
-<group matrix="1 0 0 1 -192 -688">
-<path stroke="black">
-188 692 m
-188 684 l
-196 688 l
+<group matrix="1 0 0 1 -112 -640">
+<path matrix="1 0 0 1 -60 0" stroke="black">
+168 644 m
+176 644 l
+172 636 l
 h
 </path>
-<path stroke="black">
-196 692 m
-196 684 l
+<path matrix="1 0 0 1 -60 0" stroke="black">
+168 636 m
+176 636 l
+</path>
+<path matrix="1 0 0 1 -60 0" stroke="black">
+172 636 m
+170 632 l
+166 632 l
 </path>
 <path stroke="black">
-196 688 m
-200 688 l
+112 636 m
+112 632 l
 </path>
 <path stroke="black">
-188 688 m
-184 688 l
-</path>
-<path stroke="black">
-196 688 m
-198 686 l
-198 681 l
+112 644 m
+112 648 l
 </path>
 </group>
 </symbol>
 
-
+<symbol name='Eletrônica de Potência/IGBT'snap="-16 0 16 0 0 0">
+<group matrix="1 0 0 1 -184 -656">
+<path matrix="1 0 0 0.5 -10 328" stroke="black">
+194 672 m
+194 640 l
+</path>
+<path matrix="1 0 0 1 6 0" stroke="black" arrow="normal/tiny">
+178 652 m
+184 646 l
+</path>
+<path matrix="1 0 0 1 6 0" stroke="black">
+178 652 m
+186 644 l
+186 640 l
+</path>
+<path matrix="1 0 0 1 6 0" stroke="black">
+178 660 m
+186 668 l
+186 672 l
+</path>
+<path stroke="black">
+182 662 m
+182 650 l
+176 650 l
+</path>
+</group>
+</symbol>
 
 
 <!-- FONTES -->
